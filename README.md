@@ -1,0 +1,2 @@
+# ScanDidate
+Candidate Search Engine
