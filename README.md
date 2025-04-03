@@ -5,7 +5,7 @@ ScanDidate is a candidate search application built with React, Vite, and TypeScr
 ## Screenshots
 
 ![ScanDidate Screenshot](/public/screenshot.png)  
-_Update this image with a screenshot of your deployed app._
+![image](https://github.com/user-attachments/assets/24af33ba-713d-465a-94fa-b13dbc400fd5)
 
 ## Live Demo
 
