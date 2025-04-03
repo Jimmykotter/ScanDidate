@@ -1,25 +1,13 @@
 import { Link } from "react-router-dom";
 
-
 function Navbar() {
   return (
     <nav className="nav">
-      <Link to="/">Jimmy Kotter</Link>
+      <Link to="/">Scandidate Search</Link>
       <ul>
         <li className="active">
           {" "}
-          <Link to="/about">About</Link>
-        </li>
-        <li className="active">
-          <Link to="/portfolio">Portfolio</Link>
-        </li>
-        <li className="active">
-          {" "}
-          <Link to="/contact">Contact</Link>
-        </li>
-        <li className="active">
-          {" "}
-          <Link to="/resume">Resume</Link>
+          <Link to="./SavedCandidates">SavedCandidates</Link>
         </li>
       </ul>
     </nav>
@@ -29,4 +17,3 @@ function Navbar() {
 export default Navbar;
 
 //navbar includes a link to all the pages.
-
