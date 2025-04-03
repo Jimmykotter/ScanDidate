@@ -8,7 +8,7 @@ ScanDidate is a candidate search application built with React, Vite, and TypeScr
 
 ## Live Demo
 
-[View ScanDidate Live on Netlify](https://your-netlify-site.netlify.app)  
+[[View ScanDidate Live on Netlify](https://your-netlify-site.netlify.app)  
 _Replace the URL above with your actual Netlify live link._
 
 ## Built With
